@@ -216,10 +216,3 @@ MovieLens-Recommendation-System/
 
 ---
 
-## Author
-
-Arab Academy for Science, Technology & Maritime Transport
-
-College of Computing and Information Technology
-
-Final Data Science / Machine Learning Project
