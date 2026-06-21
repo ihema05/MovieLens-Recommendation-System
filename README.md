@@ -204,8 +204,6 @@ MovieLens-Recommendation-System/
     └── dataset_instructions.md
 ```
 
----
-
 ## Future Improvements
 
 * Neural Collaborative Filtering
@@ -213,6 +211,3 @@ MovieLens-Recommendation-System/
 * Hybrid Recommendation Systems
 * Real-Time Recommendation Pipelines
 * Rich Movie Metadata Integration
-
----
-
